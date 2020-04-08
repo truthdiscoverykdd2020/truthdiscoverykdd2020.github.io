@@ -46,12 +46,12 @@ Workshop date: August 23, 2020
 
 ## Organizers
 
-*Qi Li (Iowa State University)
-*Subhabrata Mukherjee (Microsoft Research)
-*Sihong Xie (Lehigh University)
-*Jiawei Han (UIUC)
-*Philip S. Yu (UIC)
-*Jing Gao (SUNY Buffalo)
+* Qi Li (Iowa State University)
+* Subhabrata Mukherjee (Microsoft Research)
+* Sihong Xie (Lehigh University)
+* Jiawei Han (UIUC)
+* Philip S. Yu (UIC)
+* Jing Gao (SUNY Buffalo)
 
 Please email <qli@iastate.edu> for any questions.
 
