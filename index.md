@@ -51,7 +51,7 @@ Workshop date: August 23, 2020
 * [Sihong Xie (Lehigh University)](http://www.cse.lehigh.edu/~sxie/)
 * [Jiawei Han (UIUC)](http://hanj.cs.illinois.edu/)
 * [Philip S. Yu (UIC)](https://www.cs.uic.edu/~psyu/)
-* [Jing Gao (SUNY Buffalo)] (https://cse.buffalo.edu/~jing/)
+* [Jing Gao (SUNY Buffalo)](https://cse.buffalo.edu/~jing/)
 
 Please email <qli@iastate.edu> for any questions.
 
