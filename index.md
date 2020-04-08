@@ -12,7 +12,7 @@ Our workshop on truth discovery and fact-checking is motivated by the need for n
 - Leveraging Knowledge Bases and external evidence sources for reasoning, validating and explaining contentious claims
 - Developing interpretable models that can generate human-interpretable explanations as opposed to black box methods
 	
-The first workshop on _Truth Discovery and Fact Checking: Theory and practice_ will provide a forum where researchers and practitioners from academia, government and industry can share insights and identify new challenges and opportunities in resolving conflicts, fact-checking and ascertaining credibility of claims. The workshop will be held in Anchorage, Alaska on August 5, 2019 in conjunction with the [ACM SIGKDD 2019](https://www.kdd.org/kdd2019/).
+The second workshop on _Truth Discovery and Fact Checking: Making a Credible Web for Tomorrow_ will provide a forum where researchers and practitioners from academia, government and industry can share insights and identify new challenges and opportunities in resolving conflicts, fact-checking and ascertaining credibility of claims. The workshop will be held in San Diego, CA on August 23, 2020 in conjunction with the [ACM SIGKDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Topics of interest include, but are not limited to:
 
@@ -46,12 +46,12 @@ Workshop date: August 23, 2020
 
 ## Organizers
 
-* Qi Li (Iowa State University)
-* Subhabrata Mukherjee (Microsoft Research)
-* Sihong Xie (Lehigh University)
-* Jiawei Han (UIUC)
-* Philip S. Yu (UIC)
-* Jing Gao (SUNY Buffalo)
+* [Qi Li (Iowa State University)](https://www.cs.iastate.edu/people/qi-li)
+* [Subhabrata Mukherjee (Microsoft Research)](https://www.microsoft.com/en-us/research/people/submukhe/)
+* [Sihong Xie (Lehigh University)](http://www.cse.lehigh.edu/~sxie/)
+* [Jiawei Han (UIUC)](http://hanj.cs.illinois.edu/)
+* [Philip S. Yu (UIC)](https://www.cs.uic.edu/~psyu/)
+* [Jing Gao (SUNY Buffalo)] (https://cse.buffalo.edu/~jing/)
 
 Please email <qli@iastate.edu> for any questions.
 
