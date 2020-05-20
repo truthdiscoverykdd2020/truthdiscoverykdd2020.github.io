@@ -42,9 +42,9 @@ We also invite participants for TrueFact 2020 Shared Tasks. Instructions for par
 
 All deadlines are 11:59 PM Pacific Standard Time
 
-Workshop paper submissions: ~May 20~ June 15, 2020
+Workshop paper submissions: ~~May 20~~ June 15, 2020
 
-Workshop paper notifications: ~June 15~ July 15, 2020
+Workshop paper notifications: ~~June 15~~ July 15, 2020
 
 Workshop date: August 23, 2020	
 
