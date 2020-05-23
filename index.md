@@ -48,6 +48,10 @@ Workshop paper notifications: ~~June 15~~ July 15, 2020
 
 Workshop date: August 23, 2020	
 
+# Call For Participation in Shared Tasks		
+## Shared Task 1 (Review Spam Detection).
+Details: TBD
+
 ## Organizers
 
 * [Qi Li (Iowa State University)](https://www.cs.iastate.edu/people/qi-li)
