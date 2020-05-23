@@ -57,4 +57,4 @@ Workshop date: August 23, 2020
 * [Philip S. Yu (UIC)](https://www.cs.uic.edu/~psyu/)
 * [Jing Gao (SUNY Buffalo)](https://cse.buffalo.edu/~jing/)
 
-Please email <qli@iastate.edu> for any questions.
+Please email <qli@iastate.edu> for any questions
