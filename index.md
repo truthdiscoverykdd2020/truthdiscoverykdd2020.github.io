@@ -50,7 +50,7 @@ Workshop date: August 23, 2020
 
 # Call For Participation in Shared Tasks		
 ## Shared Task 1 (Review Spam Detection).
-Details: TBD
+The competition is hosted on Kaggle: https://www.kaggle.com/c/adversarial-attacks-against-spam-detectors
 
 ## Organizers
 
