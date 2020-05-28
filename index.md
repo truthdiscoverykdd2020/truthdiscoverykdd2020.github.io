@@ -52,6 +52,7 @@ Workshop date: August 23, 2020
 ## Shared Task 1 (Adversarial attacks against review spam detectors).
 The competition is hosted on Kaggle: https://www.kaggle.com/c/adversarial-attacks-against-spam-detectors
 Prize: first-place $300, runner-up $150
+Please email Sihong Xie <xiesihong1@gmail.com> for any questions.
 
 
 ## Organizers
