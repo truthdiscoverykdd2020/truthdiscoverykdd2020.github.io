@@ -49,7 +49,7 @@ Workshop paper notifications: ~~June 15~~ July 15, 2020
 Workshop date: August 23, 2020	
 
 # Call For Participation in Shared Tasks		
-## Shared Task 1 (Review Spam Detection).
+## Shared Task 1 (Adversarial attacks against review spam detectors).
 The competition is hosted on Kaggle: https://www.kaggle.com/c/adversarial-attacks-against-spam-detectors
 
 ## Organizers
