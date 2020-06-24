@@ -54,6 +54,11 @@ Workshop date: August 23, 2020
 * Prize: first-place $300, runner-up $150
 * Please email Sihong Xie <xiesihong1@gmail.com> for any questions.
 
+## Shared Task 2 (Fake news detection).
+* The competition is hosted on Kaggle: <https://www.kaggle.com/c/fakenewskdd2020/overview>
+* Prize: first-place $300, runner-up $150
+* Please email Subhabrata Mukherjee <subhabrata.mukherjee@microsoft.com> for any questions.
+
 
 ## Organizers
 
