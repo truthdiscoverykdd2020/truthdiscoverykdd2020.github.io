@@ -59,6 +59,25 @@ Workshop date: August 24, 2020
 * Prize: first-place $300, runner-up $150
 * Please email Subhabrata Mukherjee <subhabrata.mukherjee@microsoft.com> for any questions.
 
+# Preliminary Program Schedule
+
+**Start Time**|**End Time**|**Talk**|**Topic**|**Speaker /Authors**
+:-----:|:-----:|:-----:|:-----:|:-----:
+1:00 PM|13:10|Welcome Note| |Prof. Qi Li
+13:10|13:45|Keynote 1|Mining Reliable Information from Crowdsourced Data|Prof. Jing Gao
+13:45|14:00|SpotLight 1|XTREME Learning for Afforable and Accessible AI|Subhabrata Mukherjee
+14:00|14:12|Long Paper 1|KNH: Multi-View Modeling with K-Nearest Hyperplanes Graph for Misinformation Detection|Sara Abdali, Neil Shah and Evangelos Papalexakis
+14:12|14:24|Long Paper 2|Learning to Detect Few-Shot-Few-Clue Misinformation|Qiang Zhang, Shangsong Liang and Emine Yilmaz
+14:24|14:44|SpotLight 2|Securing Opinion Spam Detection|Prof. Sihong Xie
+14:44|15:04|Invited Talk|Rumor Detection on Social Media with Graph Structured Adversarial Learning|Prof. Xi Zhang
+15:04|15:16|Long Paper 3|Explainable Rumor Detection using Inter and Intra-feature Attention Networks|, Mingxuan Chen, Ning Wang and Koduvayur P. Subbalakshmi
+15:16|15:23|Short Paper 1|Out-of-Bag Anomaly Detection|Egor Klevak, Sangdi Lin, Andy Martin, Ondrej Linda and Eric Ringger
+15:23|15:30|Short Paper 2|Multi-Modal Classification for Polarization Intent Detection in Social Media|Tobbie Lie
+15:30|16:05|Keynote 2|TBD|Prof. Srijan Kumar
+16:05|16:45|Live Q&A| |TBD
+16:45|16:52|Shared Cup: Fake News Challenge Winner| |TBD
+16:52|16:59|Shared Cup: Fake News Challenge Runners-Up| |TBD
+
 ## Organizers
 
 * [Qi Li (Iowa State University)](https://www.cs.iastate.edu/people/qi-li)
