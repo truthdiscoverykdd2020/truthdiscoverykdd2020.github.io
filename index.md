@@ -64,19 +64,19 @@ Workshop date: August 24, 2020
 **Start Time**|**End Time**|**Talk**|**Topic**|**Speaker /Authors**
 :-----:|:-----:|:-----:|:-----:|:-----:
 1:00 PM|13:10|Welcome Note| |Prof. Qi Li
-13:10|13:45|Keynote |Mining Reliable Information from Crowdsourced Data|Prof. Jing Gao
+13:10|13:45|*Keynote* |Mining Reliable Information from Crowdsourced Data|**Prof. Jing Gao**
 13:45|14:00|SpotLight |XTREME Learning for Afforable and Accessible AI|Subhabrata Mukherjee
 14:00|14:12|Long Paper |KNH: Multi-View Modeling with K-Nearest Hyperplanes Graph for Misinformation Detection|Sara Abdali, Neil Shah and Evangelos Papalexakis
 14:12|14:24|Long Paper |Learning to Detect Few-Shot-Few-Clue Misinformation|Qiang Zhang, Shangsong Liang and Emine Yilmaz
 14:24|14:44|SpotLight |Securing Opinion Spam Detection|Prof. Sihong Xie
-14:44|15:04|Invited Talk|Rumor Detection on Social Media with Graph Structured Adversarial Learning|Prof. Xi Zhang
-15:04|15:16|Long Paper |Explainable Rumor Detection using Inter and Intra-feature Attention Networks|, Mingxuan Chen, Ning Wang and Koduvayur P. Subbalakshmi
-15:16|15:23|Short Paper |Out-of-Bag Anomaly Detection|Egor Klevak, Sangdi Lin, Andy Martin, Ondrej Linda and Eric Ringger
-15:23|15:30|Short Paper |Multi-Modal Classification for Polarization Intent Detection in Social Media|Tobbie Lie
-15:30|16:05|Keynote |TBD|Prof. Srijan Kumar
-16:05|16:45|Live Q&A| |TBD
-16:45|16:52|Shared Cup: Fake News Challenge Winner| |TBD
-16:52|16:59|Shared Cup: Fake News Challenge Runners-Up| |TBD
+14:45|15:20|*Keynote* |TBD|**Prof. Srijan Kumar**
+15:20|15:40|Invited Talk|Rumor Detection on Social Media with Graph Structured Adversarial Learning|Prof. Xi Zhang
+15:40|15:52|Long Paper |Explainable Rumor Detection using Inter and Intra-feature Attention Networks|, Mingxuan Chen, Ning Wang and Koduvayur P. Subbalakshmi
+15:52|15:59|Short Paper |Out-of-Bag Anomaly Detection|Egor Klevak, Sangdi Lin, Andy Martin, Ondrej Linda and Eric Ringger
+15:59|16:06|Short Paper |Multi-Modal Classification for Polarization Intent Detection in Social Media|Tobbie Lie
+16:06|16:46|Live Q&A| |TBD
+16:46|16:53|Shared Cup: Fake News Challenge Winner| |TBD
+16:53|17:00|Shared Cup: Fake News Challenge Runners-Up| |TBD
 
 ## Organizers
 
