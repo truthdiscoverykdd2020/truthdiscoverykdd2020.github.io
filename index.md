@@ -74,9 +74,9 @@ Workshop date: August 24, 2020
 15:16|15:23|Short Paper |Out-of-Bag Anomaly Detection|Egor Klevak, Sangdi Lin, Andy Martin, Ondrej Linda and Eric Ringger
 15:23|15:30|Short Paper |Multi-Modal Classification for Polarization Intent Detection in Social Media|Tobbie Lie
 15:30|16:05|Keynote |TBD|Prof. Srijan Kumar
-16:05|16:45|Live Q&A  ||
-16:45|16:52|Shared Cup: Fake News Challenge Winner|TBD| |
-16:52|16:59|Shared Cup: Fake News Challenge Runners-Up|TBD|
+16:05|16:45|Live Q&A  || 
+16:45|16:52|Shared Cup: Fake News Challenge Winner|TBD| 
+16:52|16:59|Shared Cup: Fake News Challenge Runners-Up|TBD| 
 ## Organizers
 
 * [Qi Li (Iowa State University)](https://www.cs.iastate.edu/people/qi-li)
