@@ -62,7 +62,7 @@ Workshop date: August 24, 2020
 # Preliminary Program Schedule
 
 |Start Time|	End Time|	Talk|	Topic|	Speaker /Authors|
- ------------------------------------------------------------------
+ -----         ---------  --------     -----     ------    
 | 13:00 | 13:10	| Welcome Note	| 							| Prof. Qi Li |
 | 13:10	| 13:45	| Keynote 	| Mining Reliable Information from Crowdsourced Data	| Prof. Jing Gao |
 | 13:45	| 14:00	| SpotLight	| XTREME Learning for Afforable and Accessible AI	| Subhabrata Mukherjee |
