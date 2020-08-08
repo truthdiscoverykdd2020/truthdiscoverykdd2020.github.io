@@ -61,22 +61,22 @@ Workshop date: August 24, 2020
 
 # Preliminary Program Schedule
 
-**Start Time**|**End Time**|**Talk**|**Topic**|**Speaker /Authors**
-:-----:|:-----:|:-----:|:-----:|:-----:
-1:00 PM|13:10|Welcome Note| |Prof. Qi Li
-13:10|13:45|**Keynote** | **Mining Reliable Information from Crowdsourced Data**|**Prof. Jing Gao**
-13:45|14:00|*SpotLight* |XTREME Learning for Afforable and Accessible AI|Subhabrata Mukherjee
-14:00|14:12|Long Paper |KNH: Multi-View Modeling with K-Nearest Hyperplanes Graph for Misinformation Detection|Sara Abdali, Neil Shah and Evangelos Papalexakis
-14:12|14:24|Long Paper |Learning to Detect Few-Shot-Few-Clue Misinformation|Qiang Zhang, Shangsong Liang and Emine Yilmaz
-14:24|14:44|*SpotLight* |Securing Opinion Spam Detection|Prof. Sihong Xie
-14:45|15:20|**Keynote** |TBD|**Prof. Srijan Kumar**
-15:20|15:40|Invited Talk|Rumor Detection on Social Media with Graph Structured Adversarial Learning|Prof. Xi Zhang
-15:40|15:52|Long Paper |Explainable Rumor Detection using Inter and Intra-feature Attention Networks|, Mingxuan Chen, Ning Wang and Koduvayur P. Subbalakshmi
-15:52|15:59|Short Paper |Out-of-Bag Anomaly Detection|Egor Klevak, Sangdi Lin, Andy Martin, Ondrej Linda and Eric Ringger
-15:59|16:06|Short Paper |Multi-Modal Classification for Polarization Intent Detection in Social Media|Tobbie Lie
-16:06|16:46|Live Q&A| |TBD
-16:46|16:53|Shared Cup: Fake News Challenge Winner| |TBD
-16:53|17:00|Shared Cup: Fake News Challenge Runners-Up| |TBD
+**Start Time**|**End Time**|**Talk**|**Topic**|**Speaker /Authors**|**Video**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+1:00 PM|13:10|Welcome Note| |Prof. Qi Li|Zoom Webinar (link to be provided)
+13:10|13:45|**Keynote |Mining Reliable Information from Crowdsourced Data|Prof. Jing Gao**|Jing\_Gao\_TrueFact2020.mp4
+13:45|14:00|*SpotLight |XTREME Learning for Afforable and Accessible AI|Subhabrata Mukherjee*|Subhabrata\_Mukherjee\_TrueFact2020.mp4
+14:00|14:12|Long Paper |KNH: Multi-View Modeling with K-Nearest Hyperplanes Graph for Misinformation Detection|Sara Abdali, Neil Shah and Evangelos Papalexakis|Sara\_Abdali\_TrueFact2020.mp4
+14:12|14:24|Long Paper |Learning to Detect Few-Shot-Few-Clue Misinformation|Qiang Zhang, Shangsong Liang and Emine Yilmaz|Qiang\_Zhang\_TrueFact2020.mp4
+14:24|14:44|*SpotLight |Securing Opinion Spam Detection|Prof. Sihong Xie*|Sihong\_Xie\_TrueFact2020.mp4
+14:45|15:20|**Keynote |TBD|Prof. Srijan Kumar**|Zoom Webinar (link to be provided)
+15:20|15:40|*Invited Talk|Rumor Detection on Social Media with Graph Structured Adversarial Learning|Prof. Xi Zhang*|Xi\_Zhang\_TrueFact2020.mp4
+15:40|15:52|Long Paper |Explainable Rumor Detection using Inter and Intra-feature Attention Networks|, Mingxuan Chen, Ning Wang and Koduvayur P. Subbalakshmi|Mingxuan\_Chen\_TrueFact2020.mp4
+15:52|16:00|Short Paper |Out-of-Bag Anomaly Detection|Egor Klevak, Sangdi Lin, Andy Martin, Ondrej Linda and Eric Ringger|Egor\_Klevak\_TrueFact2020.mp4
+16:00|16:08|Short Paper |Multi-Modal Classification for Polarization Intent Detection in Social Media|Tobbie Lie|Tobbie\_Lie\_TrueFact2020.mp4
+16:10|16:45|Live Q&A| |TBD|Zoom Webinar (link to be provided)
+16:45|16:52|Shared Cup: Fake News Challenge Winner| |TBD|Zoom Webinar (link to be provided)
+16:52|16:59|Shared Cup: Fake News Challenge Runners-Up| |TBD|Zoom Webinar (link to be provided)
 
 ## Organizers
 
